@@ -135,8 +135,8 @@
                 <mxCell id="8iPuRaanS0iod83LBXcC-1" value="bank_rejected&lt;br&gt;(bank rejected cheques &lt;br&gt;can be submited any &lt;br&gt;number of times )" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="64" y="643" width="160" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="save" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="184" y="610" width="60" height="20" as="geometry"/>
+                <mxCell id="2" value="Re-submit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="170" y="610" width="60" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="3" value="save" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="408" y="290" width="56" height="20" as="geometry"/>
@@ -180,7 +180,7 @@
                 <mxCell id="22" value="re-scan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
                     <mxGeometry x="24" y="575" width="60" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="28" value="save" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="28" value="Re-submit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
                     <mxGeometry x="160" y="575" width="60" height="20" as="geometry"/>
                 </mxCell>
             </root>
